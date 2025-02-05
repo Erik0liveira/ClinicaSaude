@@ -9,3 +9,4 @@ def cadastro_servico(request):
 
 def cadastro_profissional(request):
     return render(request, 'cadastro/cadastro_profissional.html')
+    
